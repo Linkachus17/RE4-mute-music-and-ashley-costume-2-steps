@@ -1,6 +1,6 @@
 # Resident Evil 4 Mute In-Game Music and Ashley Special 2 Costume Steps
 This mod allow you to mute In-Game Music, and Ashley "clank" or step sound for her Special 2 Costume.
-The reason I make this Github repo is that I can't find these modifications on the internet. Found some on Steam Community but most of them lead to dead end (broken link or such)
+The reason I make this Github repo is that I can't find these modifications on the internet, and I want to back this up to my git so I can easily find it and easily just share it globally. Found some on Steam Community but most of them lead to dead end (broken link or such)
 
 # How To use
 **Step1**
