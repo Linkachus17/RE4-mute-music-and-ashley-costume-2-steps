@@ -13,6 +13,9 @@ You can either delete one of the 2 files inside the folder if you want only to r
 2. bio4bgm ==> For In-Game music
 
 # Issues
-No issues currently, and it's tested in 1.1.0
+- Will not mute Ashley's step when playing as Ashley
+- Nothing
+
+tested in 1.1.0
 
 Original Poster : https://www.speedrun.com/re4steam/thread/szde2/2
